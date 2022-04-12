@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seulgi9506&layout=compact&exclude_repo=seulgi9506.github.io, productive-box&bg_color=DEG,f5f7fa,c3cfe2&title_color=537895&hide_border)](https://github.com/seulgi9506/seulgi9506)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seulgi9506&layout=compact&exclude_repo=seulgi9506.github.io,productive-box&bg_color=DEG,f5f7fa,c3cfe2&title_color=537895&hide_border)](https://github.com/seulgi9506/seulgi9506)
